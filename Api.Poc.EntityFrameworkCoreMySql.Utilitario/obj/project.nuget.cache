@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiowXE8uJ3zFubCSCWkUlICWLZGxYhTWcOGlZypLugBplL8ZHrT6X+HJ4AKqGIWx7y4mNodk3Uzzvbyn8UCzGg==",
+  "success": true,
+  "projectFilePath": "D:\\POCs\\Api.Poc.EntityFrameworkCoreMySql\\Api.Poc.EntityFrameworkCoreMySql.Utilitario\\Api.Poc.EntityFrameworkCoreMySql.Utilitario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\awssdk.core\\3.7.12.15\\awssdk.core.3.7.12.15.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\awssdk.secretsmanager\\3.7.2.70\\awssdk.secretsmanager.3.7.2.70.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\6.0.1\\microsoft.extensions.configuration.environmentvariables.6.0.1.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\samuel.vieira\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

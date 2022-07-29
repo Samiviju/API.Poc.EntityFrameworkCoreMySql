@@ -1,0 +1,17 @@
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.deps.json
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.pdb
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Utilitario.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.pdb
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Utilitario.pdb
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.csproj.AssemblyReference.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.AssemblyInfoInputs.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.AssemblyInfo.cs
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.csproj.CoreCompileInputs.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.csproj.CopyComplete
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\refint\Api.Poc.EntityFrameworkCoreMySql.Infra.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Infra.pdb
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Infra\obj\Debug\net6.0\ref\Api.Poc.EntityFrameworkCoreMySql.Infra.dll

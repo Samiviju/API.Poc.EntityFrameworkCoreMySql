@@ -1,0 +1,12 @@
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.deps.json
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\bin\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.pdb
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.csproj.AssemblyReference.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.AssemblyInfoInputs.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.AssemblyInfo.cs
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.csproj.CoreCompileInputs.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\refint\Api.Poc.EntityFrameworkCoreMySql.Dominio.dll
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.Dominio.pdb
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql.Dominio\obj\Debug\net6.0\ref\Api.Poc.EntityFrameworkCoreMySql.Dominio.dll

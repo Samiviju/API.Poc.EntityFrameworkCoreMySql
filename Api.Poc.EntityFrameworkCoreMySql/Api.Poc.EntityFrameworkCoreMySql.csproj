@@ -17,6 +17,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Api.Poc.EntityFrameworkCoreMySql.Dominio\Api.Poc.EntityFrameworkCoreMySql.Dominio.csproj" />
+    <ProjectReference Include="..\Api.Poc.EntityFrameworkCoreMySql.Servico\Api.Poc.EntityFrameworkCoreMySql.Servico.csproj" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Update="appsettings.Development.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

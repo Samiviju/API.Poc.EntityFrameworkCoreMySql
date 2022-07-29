@@ -1,4 +1,6 @@
-﻿namespace Api.Poc.EntityFrameworkCoreMySql.Configuracao
+﻿using Api.Poc.EntityFrameworkCoreMySql.Middleware;
+
+namespace Api.Poc.EntityFrameworkCoreMySql.Configuracao
 {
     public static class ConfiguracaoApi
     {

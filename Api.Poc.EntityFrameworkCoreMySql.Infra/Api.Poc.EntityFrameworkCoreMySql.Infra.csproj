@@ -7,12 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Lib.Comum.LogAplicacao" Version="1.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Api.Poc.EntityFrameworkCoreMySql.Dominio\Api.Poc.EntityFrameworkCoreMySql.Dominio.csproj" />
+    <ProjectReference Include="..\Api.Poc.EntityFrameworkCoreMySql.Utilitario\Api.Poc.EntityFrameworkCoreMySql.Utilitario.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,7 @@
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.csproj.AssemblyReference.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.GeneratedMSBuildEditorConfig.editorconfig
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.AssemblyInfoInputs.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.AssemblyInfo.cs
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.csproj.CoreCompileInputs.cache
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.MvcApplicationPartsAssemblyInfo.cs
+D:\POCs\Api.Poc.EntityFrameworkCoreMySql\Api.Poc.EntityFrameworkCoreMySql\obj\Debug\net6.0\Api.Poc.EntityFrameworkCoreMySql.MvcApplicationPartsAssemblyInfo.cache
